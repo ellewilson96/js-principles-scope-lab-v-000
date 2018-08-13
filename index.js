@@ -2,5 +2,4 @@
 customerName = 'bob'
 
 upperCaseCustomerName(customerName) {
-  customerName.uppercases
 }
